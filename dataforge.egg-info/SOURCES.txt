@@ -1,0 +1,14 @@
+README.md
+setup.py
+dataforge/__init__.py
+dataforge/exceptions.py
+dataforge/field.py
+dataforge/schema.py
+dataforge/types.py
+dataforge.egg-info/PKG-INFO
+dataforge.egg-info/SOURCES.txt
+dataforge.egg-info/dependency_links.txt
+dataforge.egg-info/top_level.txt
+tests/test_nested.py
+tests/test_schema.py
+tests/test_types.py
